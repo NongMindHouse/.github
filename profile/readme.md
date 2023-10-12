@@ -1,6 +1,6 @@
 # 🐙 N' Mind House 🏠
 
-<img src="[asset/img/NongMindFamily.png](https://raw.githubusercontent.com/NongMindHouse/.github/main/profile/asset/img/NongMindFamily.png)" alt="demo" width="500"  />
+<img src="https://raw.githubusercontent.com/NongMindHouse/.github/main/profile/asset/img/NongMindFamily.png" alt="demo" width="500"  />
 
 ## 🌊 what is this place?
 - It's just a cozyhouse owned by a giarctic octopus named "Nong Mind."
