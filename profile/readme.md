@@ -1,7 +1,7 @@
 # 🐙 N' Mind House 🏠
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NongMindHouse/.github/main/profile/asset/img/NongMindFamily.png" alt="demo" width="500"  />
+<img src="asset/img/NongMindFamily.png" alt="demo" width="400"  />
 </p>
 
 
@@ -14,9 +14,8 @@
         <li> 🗣️ Nong Mind / น้องมาย ᵀᴴᴬᴵ / nɔ́ːŋ maːj ᴵᴾᴬ / Little Brother Mind ᴱᴺᴳ.</li>
         <li> 😽 Make yourselves comfortable; N'Mind and his friend will cook up some code and serve it to you.</li>
     </ul>
-
   </div>
-  <div >
+  <div style="text-align: right;">
     <img src="asset/img/NongPed.png" alt="demo" width="150" />
   </div>
 </div>
