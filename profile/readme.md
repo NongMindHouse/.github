@@ -12,8 +12,8 @@
       <ul>
         <h2>🌊 what is this place?</h2>
         <li> 🩵 It's just a cozy house owned by an arctic octopus named "Nong Mind."</li>
-        <li> 🗣️ Nong Mind / น้องมาย ᵀᴴᴬᴴ / nɔ́ːŋ maːj ᴵᴾᴬ / Little Brother Mind ᴱᴺᴳ.</li>
-        <li> 😽 Make yourselves comfortable; N'Mind and his friend will cook up some code and serve it to you.</li>
+        <li> 🗣️ Nong Mind → น้อง มาย ᵀᴴᴬᴵ / nɔ́ːŋ maːj ᴵᴾᴬ / Little Brother Mind ᴱᴺᴳ </li>
+        <li> 👨🏻‍🍳 Make yourselves comfortable, N'Mind and his friend will cook up some code, seasoning with features, and serve it to you.</li>
       </ul>
     </td>
     <td style="text-align: right;">
