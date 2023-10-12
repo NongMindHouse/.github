@@ -1,7 +1,7 @@
 # 🐙 N' Mind House 🏠
 
 <p align="center">
-<img src="asset/img/NongMindFamily.png" alt="demo" width="400"  />
+<img src="https://raw.githubusercontent.com/NongMindHouse/.github/main/profile/asset/img/NongMindFamily.png" alt="demo" width="400"  />
 </p>
 
 
@@ -16,6 +16,6 @@
     </ul>
   </div>
   <div style="text-align: right;">
-    <img src="asset/img/NongPed.png" alt="demo" width="150" />
+    <img src="https://raw.githubusercontent.com/NongMindHouse/.github/main/profile/asset/img/NongPed.png" alt="demo" width="150" />
   </div>
 </div>
